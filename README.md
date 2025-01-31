@@ -1,9 +1,16 @@
-<h1 align="center">Hi there, I'm Tamer Çelebi 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | Tech Enthusiast | Open Source Contributor</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Tamer+Çelebi;I'm+a+Full-Stack+Developer;Always+learning,+always+coding." alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=110&section=header" />
+</div>
 
 ---
 
-### 📌 **About Me**
+## 🚀 **About Me**
 - 🎯 Passionate about **web development**, **React**, and **modern front-end technologies**  
 - 🌍 Interested in **open-source projects** and contributing to the tech community  
 - 🎓 Currently improving my skills in **full-stack development**  
@@ -11,44 +18,26 @@
 
 ---
 
-### 🚀 **Tech Stack & Skills**
-
-#### **Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-#### **Backend Development**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-</p>
-
-#### **Database & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-#### **Tools & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+## 🏆 **Achievements & GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&margin-w=15&margin-h=15&row=2&column=3"/>
 </p>
 
 ---
 
-### 📊 **GitHub Stats**
+## 💻 **Technologies & Tools**
+### 🔹 **Main Technologies**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,java,nodejs,mysql,python,php,jquery,spring,tailwind&theme=dark&perline=6" />
+
+### 🔹 **Development Tools and Version Control Systems**
+<img src="https://skillicons.dev/icons?i=npm,redux,git,github,figma,postman,vercel,vite,vscode,cypress,jest,selenium,docker,aws&theme=dark&perline=6" />
+
+### 🔹 **Databases & Cloud Services**
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase,graphql&theme=dark&perline=6" />
+
+---
+
+## 📊 **GitHub Stats**
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical"/>
@@ -56,22 +45,34 @@
 
 ---
 
-### 🚀 **Featured Projects**
-- 🏆 **[Project 1](https://github.com/yourusername/project1)** – A full-stack React & Node.js project  
-- 🔥 **[Project 2](https://github.com/yourusername/project2)** – A Java & Spring Boot API  
-- 💡 **[Project 3](https://github.com/yourusername/project3)** – An open-source contribution  
+## 🎯 **Top Projects**
+- 🏆 **[Project 1](https://github.com/yourusername/project1)**  
+- 🔥 **[Project 2](https://github.com/yourusername/project2)**  
+- 💡 **[Project 3](https://github.com/yourusername/project3)**  
 
 ---
 
-### 🔗 **Connect with Me**
-<p>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+## 🔗 **Let's Connect!**
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://www.instagram.com/yourprofile/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8B5CF6"/>
   </a>
   <a href="mailto:yourmail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/>
+  </a>
+  <a href="https://twitter.com/yourprofile/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=8B5CF6"/>
   </a>
 </p>
+
+📬 Got an awesome idea or a challenging project? Reach out to me at [**Mail**](mailto:yourmail@example.com) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/yourprofile/).  
+I'm always excited to collaborate on interesting projects or discuss Full-Stack development ideas! 🚀  
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=110&section=footer" />
+</div>
