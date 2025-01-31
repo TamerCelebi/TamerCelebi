@@ -10,25 +10,9 @@
 
 ---
 
-## 🚀 **About Me**
-- 🎯 Passionate about **web development**, **React**, and **modern front-end technologies**  
-- 🌍 Interested in **open-source projects** and contributing to the tech community  
-- 🎓 Currently improving my skills in **full-stack development**  
-- 📬 Reach me via **[LinkedIn](https://www.linkedin.com/in/yourprofile)** | **[Portfolio](https://yourportfolio.com)**  
-
----
-
-## 🏆 **Achievements & GitHub Trophies**
+## 🏆 **Additional Achievements & Contributions**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&margin-w=15&margin-h=15&row=2&column=3"/>
-</p>
-
----
-
-## 📊 **GitHub Stats & Contributions**
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical"/>
 </p>
 
 <p align="center">
@@ -38,20 +22,11 @@
 
 ---
 
-## 💻 **Technologies & Tools**
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,ts,js,php,rust,go,swift,kotlin,solidity,dart,haskell,scala,r,lua,zig&theme=dark&perline=8" />
-
-### 🔹 **Frontend & Backend**
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,tailwind,bootstrap,nodejs,express,django,flask,rails,spring&theme=dark&perline=8" />
-
-### 🔹 **Databases & Cloud**
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,dynamodb,firebase,aws,gcp,azure,vercel,heroku&theme=dark&perline=8" />
-
-### 🔹 **DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,terraform,jenkins,bash,linux,ubuntu,windows,nix&theme=dark&perline=8" />
-
-### 🔹 **Testing & Automation**
-<img src="https://skillicons.dev/icons?i=cypress,selenium,jest,pytest,postman&theme=dark&perline=8" />
+## 📊 **More GitHub Stats**
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical"/>
+</p>
 
 ---
 
@@ -73,16 +48,30 @@
 
 ---
 
-## 🎯 **Pinned Projects**
+## 🎶 **Spotify Now Playing**
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default"/>
+</p>
+
+---
+
+## 🏆 **Stack Overflow Stats**
+[![Stack Overflow](https://stackoverflow-badge.vercel.app/?userID=youruserid)](https://stackoverflow.com/users/youruserid)
+
+---
+
+## 🔥 **Pinned Projects**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical)](https://github.com/yourusername/project1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)](https://github.com/yourusername/project2)
 
 ---
 
-## 🎵 **Spotify Now Playing**
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default"/>
-</p>
+## 📢 **Latest Blog Posts**
+- [Post 1](https://yourblog.com/post1)
+- [Post 2](https://yourblog.com/post2)
+- [Post 3](https://yourblog.com/post3)
+
+![Blog posts](https://github-readme-medium-recent-article.vercel.app/medium/@yourusername/0)
 
 ---
 
