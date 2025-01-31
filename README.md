@@ -26,14 +26,29 @@
 ---
 
 ## 💻 **Technologies & Tools**
-### 🔹 **Main Technologies**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,java,nodejs,mysql,python,php,jquery,spring,tailwind&theme=dark&perline=6" />
+### 🔹 **Programming Languages**
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,ts,js,php,rust,go,swift,kotlin,solidity,dart,haskell,scala,r,lua,zig&theme=dark&perline=8" />
 
-### 🔹 **Development Tools and Version Control Systems**
-<img src="https://skillicons.dev/icons?i=npm,redux,git,github,figma,postman,vercel,vite,vscode,cypress,jest,selenium,docker,aws&theme=dark&perline=6" />
+### 🔹 **Frontend Development**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,nuxtjs,angular,svelte,lit,tailwind,bootstrap,materialui,styledcomponents,redux,jquery&theme=dark&perline=8" />
 
-### 🔹 **Databases & Cloud Services**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase,graphql&theme=dark&perline=6" />
+### 🔹 **Backend Development**
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,adonis,rails,spring,ktor,php,laravel,graphql,apollo,go,elixir,ruby,remix,actix&theme=dark&perline=8" />
+
+### 🔹 **Databases & Cloud**
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,dynamodb,planetscale,prisma,firebase,supabase,aws,gcp,azure,vercel,heroku,openshift,openstack&theme=dark&perline=8" />
+
+### 🔹 **DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,kubernetes,terraform,jenkins,githubactions,workers,powershell,bash,linux,ubuntu,arch,windows,nix,plan9,cloudflare&theme=dark&perline=8" />
+
+### 🔹 **IDEs & Development Tools**
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,intellij,webstorm,pycharm,phpstorm,idea,clion,rider,sublime,neovim,emacs,atom&theme=dark&perline=8" />
+
+### 🔹 **Testing & Automation**
+<img src="https://skillicons.dev/icons?i=cypress,selenium,jest,vitest,pytest,gherkin,prometheus,sentry,postman,ros&theme=dark&perline=8" />
+
+### 🔹 **Other Technologies**
+<img src="https://skillicons.dev/icons?i=threejs,blender,grafana,qt,opencv,raspberrypi,arduino,unreal,unity,godot,sklearn,tensorflow,pytorch,latex&theme=dark&perline=8" />
 
 ---
 
