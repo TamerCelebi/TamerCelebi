@@ -10,19 +10,49 @@
 
 ---
 
-## 🏆 **Additional Achievements & Contributions**
+## 🚀 **About Me**
+- 🎯 Passionate about **web development**, **React**, and **modern front-end technologies**  
+- 🌍 Interested in **open-source projects** and contributing to the tech community  
+- 🎓 Currently improving my skills in **full-stack development**  
+- 📬 Reach me via **[LinkedIn](https://www.linkedin.com/in/yourprofile)** | **[Portfolio](https://yourportfolio.com)**  
+
+---
+
+## 🏆 **Achievements & GitHub Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&margin-w=15&margin-h=15&row=2&column=3"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=radical"/>
-</p>
+---
+
+## 💻 **Technologies & Tools**
+### 🔹 **Programming Languages**
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,ts,js,php,rust,go,swift,kotlin,solidity,dart,haskell,scala,r,lua,zig&theme=dark&perline=8" />
+
+### 🔹 **Frontend Development**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,nuxtjs,angular,svelte,lit,tailwind,bootstrap,materialui,styledcomponents,redux,jquery&theme=dark&perline=8" />
+
+### 🔹 **Backend Development**
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,adonis,rails,spring,ktor,php,laravel,graphql,apollo,go,elixir,ruby,remix,actix&theme=dark&perline=8" />
+
+### 🔹 **Databases & Cloud**
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,dynamodb,planetscale,prisma,firebase,supabase,aws,gcp,azure,vercel,heroku,openshift,openstack&theme=dark&perline=8" />
+
+### 🔹 **DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,kubernetes,terraform,jenkins,githubactions,workers,powershell,bash,linux,ubuntu,arch,windows,nix,plan9,cloudflare&theme=dark&perline=8" />
+
+### 🔹 **IDEs & Development Tools**
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,intellij,webstorm,pycharm,phpstorm,idea,clion,rider,sublime,neovim,emacs,atom&theme=dark&perline=8" />
+
+### 🔹 **Testing & Automation**
+<img src="https://skillicons.dev/icons?i=cypress,selenium,jest,vitest,pytest,gherkin,prometheus,sentry,postman,ros&theme=dark&perline=8" />
+
+### 🔹 **Other Technologies**
+<img src="https://skillicons.dev/icons?i=threejs,blender,grafana,qt,opencv,raspberrypi,arduino,unreal,unity,godot,sklearn,tensorflow,pytorch,latex&theme=dark&perline=8" />
 
 ---
 
-## 📊 **More GitHub Stats**
+## 📊 **GitHub Stats**
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical"/>
@@ -30,56 +60,27 @@
 
 ---
 
-## 🕹 **Fun & Dynamic Content**
-### 🐍 **GitHub Contribution Snake**
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
-### 😂 **Random Programming Joke**
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api"/>
-</p>
-
-### 💡 **Random Coding Quote**
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-## 🎶 **Spotify Now Playing**
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default"/>
-</p>
-
----
-
-## 🏆 **Stack Overflow Stats**
-[![Stack Overflow](https://stackoverflow-badge.vercel.app/?userID=youruserid)](https://stackoverflow.com/users/youruserid)
-
----
-
-## 🔥 **Pinned Projects**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical)](https://github.com/yourusername/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)](https://github.com/yourusername/project2)
-
----
-
-## 📢 **Latest Blog Posts**
-- [Post 1](https://yourblog.com/post1)
-- [Post 2](https://yourblog.com/post2)
-- [Post 3](https://yourblog.com/post3)
-
-![Blog posts](https://github-readme-medium-recent-article.vercel.app/medium/@yourusername/0)
+## 🎯 **Top Projects**
+- 🏆 **[Project 1](https://github.com/yourusername/project1)**  
+- 🔥 **[Project 2](https://github.com/yourusername/project2)**  
+- 💡 **[Project 3](https://github.com/yourusername/project3)**  
 
 ---
 
 ## 🔗 **Let's Connect!**
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourprofile/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
+  </a>
+  <a href="https://www.instagram.com/yourprofile/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8B5CF6"/>
+  </a>
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/>
+  </a>
+  <a href="https://twitter.com/yourprofile/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=8B5CF6"/>
+  </a>
 </p>
 
 📬 Got an awesome idea or a challenging project? Reach out to me at [**Mail**](mailto:yourmail@example.com) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/yourprofile/).  
